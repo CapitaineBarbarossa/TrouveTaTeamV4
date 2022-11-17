@@ -18,5 +18,25 @@
 	{
 		"bgImgURL": "5.jpg",
 		"headline": "League of legends"
+	},
+	{
+		"bgImgURL": "6.jpg",
+		"headline": "No Man Sky"
+	},
+	{
+		"bgImgURL": "7.jpg",
+		"headline": "PUBG"
+	},
+	{
+		"bgImgURL": "8.jpg",
+		"headline": "Rocket League"
+	},
+	{
+		"bgImgURL": "9.jpg",
+		"headline": "Splatoon 3"
+	},
+	{
+		"bgImgURL": "10.jpg",
+		"headline": "Valorant"
 	}
 ]
